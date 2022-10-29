@@ -1,0 +1,70 @@
+@font-face {
+    font-family: pusab;
+    src: url(fonts/pusab.otf);
+}
+
+@font-face {
+    font-family: gooddog;
+    src: url(fonts/gooddog.ttf);
+}
+
+body {
+    font-family: Helvetica;
+    text-align: center;
+    color: white;
+}
+
+.center {
+    text-align: center;
+}
+
+a {
+    color: white;
+    cursor: pointer;
+    font-size: 1vw;
+}
+
+.social-media-logo {
+    padding: 7px;
+    text-decoration: none;
+}
+
+.big-break {
+    margin-bottom: 230px;
+}
+
+.normal-break {
+    margin-bottom: 100px;
+}
+
+h1 {
+    font-family: pusab;
+    text-shadow: -1.5px -1.5px 0 black, 1.5px -1.5px 0 black, -1.5px 1.5px 0 black, 1.5px 1.5px 0 black;
+    font-size: 40px;
+}
+
+.big {
+    font-size: 70px;
+    text-shadow: -3px -3px 0 black, 3px -3px 0 black, -3px 3px 0 black, 3px 3px 0 black;
+}
+
+p {
+    padding-inline: 5vw;
+}
+
+.brown-box {
+    background-color: #9a5533;
+    border-radius: 20px;
+    margin-inline: 20vw;
+    box-shadow: -4px -4px 0 black, 4px -4px 0 black, -4px 4px 0 black, 4px 4px 0 black, -8px -8px 0 white, 8px -8px 0 white, -8px 8px 0 white, 8px 8px 0 white;
+}
+
+small {
+    font-size: 0.9vw;
+}
+
+.font-6 {
+    font-family: gooddog;
+    font-size: 40px;
+    color: #bbafc3;
+}
